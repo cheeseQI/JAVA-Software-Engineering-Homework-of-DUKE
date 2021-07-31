@@ -20,7 +20,6 @@ public void printURL(URLResource url){
                 int posright = word.indexOf("\"", posOf+1);
                 
                 link = word.substring(posleft, posright + 1); 
-        
                 System.out.println(link);
             }
             
