@@ -8,5 +8,5 @@ programming exercise from coursera, provided by Duke University.
 5. Other mini exercise for processing information such as exorts of countries around the world.
 
 ## what you can see in this repository
-1. Basic JAVA programming skill
-2. Problem solving skill
+ 1. Basic Java programming skill
+ 2. Problems solving skill
